@@ -1,9 +1,6 @@
 
-Memory updated
+#Data Preparation
 
-Here's a description for your "Data Preparation" repository:
-
-Data Preparation
 This repository contains comprehensive code implementations for various data preparation techniques, including data cleaning, transformation, and feature engineering. Proper data preparation is crucial for building robust and accurate machine learning models, and this repository aims to provide practical examples and best practices for handling real-world data.
 
 Key Features
